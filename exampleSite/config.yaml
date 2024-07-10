@@ -8,13 +8,13 @@ copyright: SH的世界
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: sh blog
         weight: 1
         params:
             description: Example description
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 思航博客
         weight: 2
         params:
             description: 演示说明
